@@ -19,7 +19,7 @@ Los mapaches también son comunes en áreas rurales, donde pueden encontrar una 
 Muchos parques nacionales y reservas naturales son el hogar de mapaches. Estos espacios ofrecen un entorno protegido donde pueden forrajear y reproducirse sin la amenaza de la urbanización.
 
 # Observación de Mapaches
-## Si estás interesado en observar mapaches salvajes, lo mejor es hacerlo en la noche, ya que son animales principalmente nocturnos. Asegúrate de mantener una distancia segura y no intentar acercarte, ya que son criaturas salvajes y pueden volverse agresivas si se sienten amenazadas.
+Si estás interesado en observar mapaches salvajes, lo mejor es hacerlo en la noche, ya que son animales principalmente nocturnos. Asegúrate de mantener una distancia segura y no intentar acercarte, ya que son criaturas salvajes y pueden volverse agresivas si se sienten amenazadas.
 
 
 

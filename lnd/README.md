@@ -1,6 +1,6 @@
 
 # ¿Te Pueden Contraer la Rabia los Mapaches?
-## Cuando pensamos en mapaches, a menudo nos vienen a la mente su curiosidad y su aspecto adorable. Sin embargo, es importante recordar que estos animales también pueden ser portadores de la rabia, una enfermedad seria que puede ser muy peligrosa. Aquí hay algunos puntos clave que debes saber:
+Cuando pensamos en mapaches, a menudo nos vienen a la mente su curiosidad y su aspecto adorable. Sin embargo, es importante recordar que estos animales también pueden ser portadores de la rabia, una enfermedad seria que puede ser muy peligrosa. Aquí hay algunos puntos clave que debes saber:
 
 # ¿Qué es la Rabia?: 
 La rabia es un virus que afecta el sistema nervioso y, si no se trata, puede ser fatal. Los mapaches son uno de los muchos animales que pueden contraer esta enfermedad.
@@ -18,7 +18,7 @@ Si alguna vez te muerde o rasguña un mapache, busca atención médica de inmedi
 Asegúrate de que tus mascotas estén vacunadas contra la rabia. Esto no solo es importante para la salud de tus animales, sino que también protege a las personas que los rodean.
 
 # En Resumen
-## Si bien los mapaches pueden parecer adorables, es crucial recordar que pueden ser portadores de la rabia. Mantener la distancia y no intentar interactuar con ellos es la mejor manera de protegerte. Así que disfruta de la belleza de estos animales desde lejos y asegúrate de que tus mascotas estén protegidas. ¡La prevención es la clave!
+Si bien los mapaches pueden parecer adorables, es crucial recordar que pueden ser portadores de la rabia. Mantener la distancia y no intentar interactuar con ellos es la mejor manera de protegerte. Así que disfruta de la belleza de estos animales desde lejos y asegúrate de que tus mascotas estén protegidas. ¡La prevención es la clave!
 
 
 
