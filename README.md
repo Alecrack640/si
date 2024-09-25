@@ -1,8 +1,8 @@
-# Mapaches
+# ¡Bienvenidos a El Mundo de los Mapaches!
+Si estás aquí, seguramente compartes con nosotros una gran fascinación por esos pequeños, curiosos y encantadores seres: los mapaches. En esta página, nos hemos propuesto celebrar a estos increíbles animales que, con sus mascaritas y su ingenio, han capturado la atención de todos los que los conocen.
 
-## Descripción
+Ya sea que te interesen por su comportamiento, su capacidad para adaptarse a casi cualquier entorno, o simplemente porque son adorables, este es el lugar perfecto para descubrir todo sobre ellos. Aquí encontrarás desde datos curiosos y consejos para convivir con mapaches, hasta historias divertidas y tiernas de personas que han tenido encuentros cercanos con estos traviesos peludos.
 
-Cráneo de un Procyon lotor (mapache boreal)
-Tiene un tamaño mediano y puede llegar a medir entre 40 cm y 55 cm de alto. Es un poco mayor y más grueso que un gato, de pelo medianamente largo y de color gris plateado (más oscuro en el centro del lomo), el pelo de las extremidades casi blanco, cola larga y anillada (gris plateado con blanco o casi blanco) y una característica mancha de pelo negro que va desde cada mejilla a cada ojo, lo que lo hace muy reconocible, pues parece que lleva un antifaz. En ocasiones se sienta sobre sus cuartos traseros (muslos y glúteos), como hacen los osos, y, como ellos, es de patas traseras plantígradas. En sus extremidades posee cinco dedos largos y ágiles (el tacto es su sentido predominante). Puede pesar hasta 15 kg.
+Nuestro objetivo es crear un espacio donde puedas aprender, sorprenderte y, sobre todo, disfrutar del fascinante mundo de los mapaches. Porque, al final del día, estos pequeños bandidos tienen mucho más que ofrecer que solo manos habilidosas y miradas traviesas.
 
-Las manos de los mapaches tienen ciertas similitudes con las de los primates, producto de la convergencia evolutiva, ya que no están estrechamente relacionados entre sí. Su distribución de los dedos es ideal para que sea capaz de apretar y manipular objetos, aunque no presentan un pulgar oponible
+¡Nos encantaría que te quedaras un rato y exploráramos juntos lo maravillosos que son los mapaches!
