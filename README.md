@@ -7,9 +7,9 @@ Nuestro objetivo es crear un espacio donde puedas aprender, sorprenderte y, sobr
 
 ¡Nos encantaría que te quedaras un rato y exploráramos juntos lo maravillosos que son los mapaches!
 
-# ⣿⣿⣿⣫⣝⣿⢻⣝⢿⣿⣿
-# ⢟⡻⢏⣿⣿⠙⣾⣿⢸⢟⡻
-# ⡸⣿⣎⣜⢋⣚⡙⢫⢱⣿⡇
-# ⣷⣭⢇⣱⣿⣿⣿⣎⡪⣯⣾
-# ⣿⣟⢿⣿⣿⣿⣿⣿⡿⣹⣿
-# ⣿⣿⣮⣟⣫⣭⣝⣛⣵⣿⣿
+⠀⠀⠀⠔⠢⠀⡄⠢⡀⠀⠀
+⡠⢄⡰⠀⠀⣦⠁⠀⡇⡠⢄
+⢇⠀⠱⠣⡴⠥⢦⡔⡎⠀⢸
+⠈⠒⡸⠎⠀⠀⠀⠱⢕⠐⠁
+⠀⠠⡀⠀⠀⠀⠀⠀⢀⠆⠀
+⠀⠀⠑⠠⠔⠒⠢⠤⠊⠀⠀
