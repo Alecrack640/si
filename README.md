@@ -6,3 +6,10 @@ Ya sea que te interesen por su comportamiento, su capacidad para adaptarse a cas
 Nuestro objetivo es crear un espacio donde puedas aprender, sorprenderte y, sobre todo, disfrutar del fascinante mundo de los mapaches. Porque, al final del día, estos pequeños bandidos tienen mucho más que ofrecer que solo manos habilidosas y miradas traviesas.
 
 ¡Nos encantaría que te quedaras un rato y exploráramos juntos lo maravillosos que son los mapaches!
+
+⣿⣿⣿⣫⣝⣿⢻⣝⢿⣿⣿
+⢟⡻⢏⣿⣿⠙⣾⣿⢸⢟⡻
+⡸⣿⣎⣜⢋⣚⡙⢫⢱⣿⡇
+⣷⣭⢇⣱⣿⣿⣿⣎⡪⣯⣾
+⣿⣟⢿⣿⣿⣿⣿⣿⡿⣹⣿
+⣿⣿⣮⣟⣫⣭⣝⣛⣵⣿⣿
