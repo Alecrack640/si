@@ -1,338 +1,45 @@
----
-type: slide
----
-
-# LND
-## Lenguajes de marcas y sistemas de gestión de información
-
----
-
-### UT1-R1 - Introducción a los lenguajes de marcas
-![lenguaje_marcas_intro](https://hackmd.io/_uploads/H1ztBBXpA.jpg =50%x)
-
----
-
-## 1. ¿Qué es un lenguaje de marcas?
-
-* Sistema de **codificación** de datos en **documentos digitales**
-* Utiliza **etiquetas** o marcas para definir su **formato** y **estructura**
-* Principal función es **almacenar información** que pueda ser interpretada por **humanos** y por **sistemas informáticos**.
-
----
-
-### Características principales:
-
----
-
-### Propósito flexible
-- Puede representar texto, imágenes, datos y más.
-- Sirve tanto para la visualización en pantallas (HTML, markdown) como para la transmisión de datos (XML, JSON).
-
----
-
-### Uso de etiquetas
-
-* Los lenguajes de marcas utilizan etiquetas para definir la estructura y el contenido de los documentos.
-* Las etiquetas suelen estar delimitadas por símbolos como `< >` o `{ }`, 
-* Suelen agruparse en pares: una etiqueta de apertura (`<nombre>`) y una de cierre (`</nombre>`).
-
----
-
-### Estructura jerárquica: 
-* Los documentos se organizan en una **estructura de árbol**, donde las etiquetas se **anidan** unas dentro de otras para definir la **relación** entre los elementos.
-
-```
-<producto>
-  <nombre>Ordenador Portátil</nombre>
-  <precio>999.99</precio>
-  <stock>25</stock>
-  <categoria>
-    <nombre>Electrónica</nombre>
-    <subcategoria>
-      <nombre>Informática</nombre>
-    </subcategoria>
-  </categoria>
-  <descripcion>Portátil CPU i7 y 16GB de RAM</descripcion>
-</producto>
-```
-
----
-
-#### Estructura en arbol del documento anterior
-
-```
-producto
-├── nombre
-│   └── Ordenador Portátil
-├── precio
-│   └── 999.99
-├── stock
-│   └── 25
-├── categoria
-│   ├── nombre
-│   │   └── Electrónica
-│   └── subcategoria
-│       └── nombre
-│           └── Informática
-└── descripcion
-    └── Portátil CPU i7 y 16GB de RAM
-```
-
----
-
-###  Etiquetas descriptivas
-
-* Las etiquetas dan **formato**
-* Describen el **significado** de los elementos.
-
-```
-<documento>
-  <titulo formato="negrita" tamaño="20px" color="azul">Manual</titulo>
-  <parrafo alineacion="justificado" interlineado="1.5">
-    Bienvenido al manual de usuario. 
-  </parrafo>
-  <lista tipo="numerada" color="negro">
-    <item>Encender el dispositivo</item>
-    <item>Configurar la red</item>
-    <item>Instalar aplicaciones</item>
-  </lista>
-</documento>
-
-```
-
----
-
-### Separación de contenido y presentación
-
-* En muchos lenguajes de marcas (como HTML o XML), el **contenido está separado de la presentación**.
-* Esto significa que:
-    * Los datos y su estructura están definidos por el lenguaje de marcas
-    * El formato/apariencia (colores, tipografía, estilos) puede manejarse por otro lenguaje o herramienta (como CSS en el caso de HTML).
-
-
----
-
-### Interoperabilidad y Estándar
-
-* Los lenguajes de marcas están diseñados para ser **interoperables**. 
-* La información estructurada en un lenguaje de marcas puede ser entendida y procesada por diferentes sistemas y plataformas.
-* Muchos de ellos son estándares abiertos, como XML o JSON, lo que facilita su adopción y uso en distintas aplicaciones.
-
----
-
-### Legibilidad para Humanos y Máquinas
-
-* Aunque están pensados para que las máquinas los interpreten
-* Son legibles por humanos. Esto hace que sea relativamente fácil para las personas leer, escribir y modificar documentos.
-* Se almacenan como texto, no se requiere software especializado para visualizarlos, y pueden ser abiertos con cualquier editor de texto.
-
----
-
-### Extensibilidad
-
-* Los lenguajes de marcas suelen ser extensibles
-* Se pueden agregar nuevas etiquetas o atributos según las necesidades del proyecto o aplicación.
-* Útil en lenguajes como XML, donde se pueden definir estructuras personalizadas para adaptarse a diferentes tipos de datos.
-
----
-
-### Facilitan el Intercambio de Datos
-
-* Los lenguajes de marcas permiten estructurar y compartir datos de manera estándar
-* Se facilita el intercambio de información entre diferentes sistemas 
-* Ejemplo: servicios web o API).
-
----
-
-### Validación y Consistencia
-
-* Muchos lenguajes de marcas permiten la validación del documento 
-* Se usan esquemas o definiciones formales (como DTD o XSD en XML)
-* Garantizan que los datos cumplan con una estructura específica.
-* Asegura que los documentos sean consistentes y se ajusten a un formato predefinido.
-
----
-
-## Clasificaciones de los lenguajes de marcas
-
-* Los lenguajes de marcas se pueden clasificar de varias maneras
-* Dependiendo de diferentes criterios
-
----
-
-### 1. **Por Ámbito de Aplicación**
-
-* Preséntación
-* Intercambio de datos
-* Configuración
-
----
-
-### 2. **Por Propósito**
-* Lenguajes de marcas de propósito general
-* Lenguajes de marcas de propósito específico
-
----
-
-### 3. **Por su estructura**
-
-* Lenguajes de marcas basados en etiquetas
-* Lenguajes de marcas basados en delimitadores
-* Lenguajes de marcas basados en campos
-
-
----
-
-### 4. **Por Tipo de Información que Manejan**
-
-* Documentales
-* Datos Estructurados
-* Configuración y Metadatos
-
----
-
-### 5. Por Complejidad
-
-- Lenguajes Simples
-- Lenguajes Avanzados
-
----
-
-## Ejemplos de lenguajes de marcas relevantes
-
----
-
-### HTML (HyperText Markup Language)
-
-- Usado para estructurar páginas web.
-- Define el contenido que se verá en el navegador.
-
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ejemplo de HTML</title>
-  <link rel="stylesheet" href="estilos.css">
-</head>
-<body>
-  <header>
-    <h1>Bienvenido a mi sitio web</h1>
-  </header>
-</body>
-</html>
-```
-
----
-
-### XML (eXtensible Markup Language):
-- Usado principalmente para el intercambio de datos.
-- Es flexible y extensible, permitiendo crear nuevas etiquetas según la necesidad.
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<biblioteca>
-  <libro>
-    <titulo>Cien años de soledad</titulo>
-    <autor>Gabriel García Márquez</autor>
-    <publicacion>
-      <año>1967</año>
-      <editorial>Sudamericana</editorial>
-    </publicacion>
-    <genero>Novela</genero>
-  </libro>
-</biblioteca>
-```
-
----
-
-### JSON (JavaScript Object Notation):
-
-- Un formato ligero para el intercambio de datos, principalmente utilizado en aplicaciones web.
-- Se basa en la sintaxis de objetos de JavaScript.
-
-
-```json
-{
-  "usuario": {
-    "nombre": "Juan Pérez",
-    "email": "juan.perez@example.com",
-    "edad": 30,
-    "activo": true,
-    "preferencias": {
-      "idioma": "español",
-      "notificaciones": true,
-      "tema": "oscuro"
-    }
-  }
-}
-```
-
----
-
-### YAML (YAML Ain't Markup Language):
-- Un formato de serialización de datos legible por humanos.
-- A menudo utilizado en archivos de configuración.
-- Ejemplo:
-
-```yaml
-network:
-  version: 2
-  renderer: networkd
-  ethernets:
-    enp3s0:
-      dhcp4: no
-      dhcp6: no
-      addresses:
-        - 192.168.1.100/24
-      gateway4: 192.168.1.1
-      nameservers:
-        addresses:
-          - 8.8.8.8
-          - 8.8.4.4
-```
-
----
-
-### Markdown:
-- Usado para crear texto enriquecido de forma sencilla.
-- Principalmente utilizado en documentación y foros.
-
-```markdown
-# Recetas de cocina
-
-## Pasta con salsa de tomate
-
-![Imagen encabezado](https://example.com/tomate.jpg)
-
-Ingredientes:
-- 500 g de pasta
-- [1 lata de tomates triturados](https://example.com/tomates-triturados)
-- 2 dientes de ajo
-- 1 cebolla
-- Aceite de oliva
-- Sal y pimienta al gusto
-```
-
----
-
-### VCF
-* También conocido como vCard
-* Formato estándar utilizado para intercambiar información de contacto entre aplicaciones.
-
-```vcf
-BEGIN:VCARD
-VERSION:3.0
-FN:John Doe
-N:Doe;John;;;
-ORG:Example Corporation
-TITLE:Senior Software Engineer
-TEL;TYPE=WORK,VOICE:+1-555-555-5555
-EMAIL:john.doe@example.com
-ADR;TYPE=WORK:;;1234 Example Road;Sample City;CA;94043;USA
-URL:https://www.example.com
-END:VCARD
-```
-
----
+# Un Ingenioso Sobreviviente
+El mapache es uno de esos animales que sorprenden por su inteligencia y adaptabilidad. Con su característica máscara negra alrededor de los ojos, parece que siempre está tramando algo. Originario de América del Norte, este pequeño mamífero se ha convertido en un experto en sobrevivir en todo tipo de lugares, desde los bosques más profundos hasta los jardines de las ciudades.
+
+## ¿Dónde viven los mapaches?
+A los mapaches les encanta vivir cerca del agua, por lo que los encontrarás en bosques cercanos a ríos, lagos o pantanos. Les gusta la vegetación densa, donde pueden esconderse y estar tranquilos, pero también se sienten cómodos en áreas urbanas. De hecho, se han adaptado tan bien que es común verlos buscando comida en nuestras ciudades, incluso husmeando en los botes de basura.
+
+## ¿Qué comen los mapaches?
+Lo que más define a un mapache es que es un omnívoro oportunista. Esto significa que comen prácticamente de todo. En la naturaleza, disfrutan de una dieta variada: frutas, nueces, insectos, pequeños animales como ranas y peces, e incluso huevos de aves. En las ciudades, no son tan quisquillosos y pueden alimentarse de restos de comida. Además, tienen unas patas delanteras que parecen manos, lo que les permite manipular objetos con mucha habilidad.
+
+## Un animal nocturno y astuto
+Los mapaches son animales nocturnos, lo que quiere decir que suelen salir a buscar comida por la noche. Gracias a su excelente sentido del olfato y su aguda vista, se las arreglan para moverse en la oscuridad sin problemas. Aunque suelen ser solitarios, en invierno se agrupan en refugios, como troncos huecos o cuevas, para mantenerse calientes. Son animales muy ingeniosos y siempre encuentran la manera de sobrevivir, sin importar el entorno.
+
+## Reproducción y familia
+En primavera, los mapaches forman pequeñas familias. Las hembras suelen dar a luz entre 2 y 5 crías, que nacen ciegas y completamente dependientes de su madre. Durante los primeros meses de vida, las crías aprenden a explorar su entorno bajo la atenta mirada de su madre. Alrededor de los seis meses ya son capaces de vivir por su cuenta.
+
+## Un sobreviviente en la naturaleza y en la ciudad
+Aunque en la naturaleza algunos depredadores como los coyotes o las águilas representan una amenaza, los mapaches han demostrado ser maestros de la adaptación. De hecho, su mayor enemigo suele ser la actividad humana, como el tráfico o la destrucción de sus hábitats. A pesar de todo, siguen prosperando, incluso en entornos urbanos, donde encuentran nuevas formas de sobrevivir y convivir con los humanos.
+
+
+⠀![alt text](image.png) ⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⣀⢀⣾⠿⠻⢶⣄⠀⠀⣠⣶⡿⠶⣄⣠⣾⣿⠗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⢻⣿⣿⡿⣿⠿⣿⡿⢼⣿⣿⡿⣿⣎⡟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⠉⠛⢛⣛⡉⠀⠀⠙⠛⠻⠛⠑⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣧⣤⣴⠿⠿⣷⣤⡤⠴⠖⠳⣄⣀⣹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣀⣟⠻⢦⣀⡀⠀⠀⠀⠀⣀⡈⠻⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⡿⠉⡇⠀⠀⠛⠛⠛⠋⠉⠉⠀⠀⠀⠹⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡟⠀⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠈⠑⠪⠷⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣦⣼⠛⢦⣤⣄⡀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠢⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣠⠴⠲⠖⠛⠻⣿⡿⠛⠉⠉⠻⠷⣦⣽⠿⠿⠒⠚⠋⠉⠁⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢦⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣾⠛⠁⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢣⠀⠀⠀
+⠀⠀⠀⠀⣰⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⠀⠀
+⠀⠀⠀⣰⣿⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣧⣄⠀⠀⠀⠀⠀⠀⢳⡀⠀
+⠀⠀⠀⣿⡾⢿⣀⢀⣀⣦⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⣫⣿⡿⠟⠻⠶⠀⠀⠀⠀⠀⢳⠀
+⠀⠀⢀⣿⣧⡾⣿⣿⣿⣿⣿⡷⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⢀⡴⢿⣿⣧⠀⡀⠀⢀⣀⣀⢒⣤⣶⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
+⠀⠀⡾⠁⠙⣿⡈⠉⠙⣿⣿⣷⣬⡛⢿⣶⣶⣴⣶⣶⣶⣤⣤⠤⠾⣿⣿⣿⡿⠿⣿⠿⢿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
+⠀⣸⠃⠀⠀⢸⠃⠀⠀⢸⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⠟⡉⠀⠀⠀⠈⠙⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
+⠀⣿⠀⠀⢀⡏⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⠿⠿⠛⠛⠉⠁⠀⠀⠀⠀⠀⠉⠠⠿⠟⠻⠟⠋⠉⢿⣿⣦⡀⢰⡀⠀⠀⠀⠀⠀⠀⠁
+⢀⣿⡆⢀⡾⠀⠀⠀⠀⣾⠏⢿⣿⣿⣿⣯⣙⢷⡄⠀⠀⠀⠀⠀⢸⡄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣿⣻⢿⣷⣀⣷⣄⠀⠀⠀⠀⢸⠀
+⢸⠃⠠⣼⠃⠀⠀⣠⣾⡟⠀⠈⢿⣿⡿⠿⣿⣿⡿⠿⠿⠿⠷⣄⠈⠿⠛⠻⠶⢶⣄⣀⣀⡠⠈⢛⡿⠃⠈⢿⣿⣿⡿⠀⠀⠀⠀⠀⡀
+⠟⠀⠀⢻⣶⣶⣾⣿⡟⠁⠀⠀⢸⣿⢅⠀⠈⣿⡇⠀⠀⠀⠀⠀⣷⠂⠀⠀⠀⠀⠐⠋⠉⠉⠀⢸⠁⠀⠀⠀⢻⣿⠛⠀⠀⠀⠀⢀⠇
+⠀⠀⠀⠀⠹⣿⣿⠋⠀⠀⠀⠀⢸⣧⠀⠰⡀⢸⣷⣤⣤⡄⠀⠀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡆⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⢼⡇
+⠀⠀⠀⠀⠀⠙⢻⠄⠀⠀⠀⠀⣿⠉⠀⠀⠈⠓⢯⡉⠉⠉⢱⣶⠏⠙⠛⠚⠁⠀⠀⠀⠀⠀⣼⠇⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⡇
+⠀⠀⠀⠀⠀⠀⠻⠄⠀⠀⠀⢀⣿⠀⢠⡄⠀⠀⠀⣁⠁⡀⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⢀⣐⡟⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⢠⡇
