@@ -20,6 +20,11 @@ Asegúrate de que tus mascotas estén vacunadas contra la rabia. Esto no solo es
 # En Resumen
 Si bien los mapaches pueden parecer adorables, es crucial recordar que pueden ser portadores de la rabia. Mantener la distancia y no intentar interactuar con ellos es la mejor manera de protegerte. Así que disfruta de la belleza de estos animales desde lejos y asegúrate de que tus mascotas estén protegidas. ¡La prevención es la clave!
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7uLBjDbPmK8" frameborder="0" allowfullscreen></iframe>
+
+
 * [Un Ingenioso Sobreviviente](recursos/1/Como_viven_los_mapaches.md)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⣾⡇⠀⠀⠀⠀⠀
