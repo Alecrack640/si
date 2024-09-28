@@ -16,6 +16,7 @@ Los mapaches pueden formar lazos con los humanos, pero su naturaleza salvaje sig
 ## Alternativas Geniales: 
 Si amas a los mapaches pero no puedes tener uno como mascota, ¡no te preocupes! Puedes apoyar la conservación de su hábitat natural o visitar santuarios donde puedas aprender más sobre ellos y verlos en un entorno seguro.
 
+* [Mapacha](recursos2/3/Mapache_de_mascotas.md)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⣾⣷⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⡀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣷⣤⣤⣤⣴⣶⣶⣿⣿⣿⣿⣿⣿⢿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
