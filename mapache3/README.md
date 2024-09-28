@@ -17,10 +17,6 @@ Si alguna vez te muerde o rasguña un mapache, busca atención médica de inmedi
 # Mantén a Tus Mascotas Seguras: 
 Asegúrate de que tus mascotas estén vacunadas contra la rabia. Esto no solo es importante para la salud de tus animales, sino que también protege a las personas que los rodean.
 
-# En Resumen
-Si bien los mapaches pueden parecer adorables, es crucial recordar que pueden ser portadores de la rabia. Mantener la distancia y no intentar interactuar con ellos es la mejor manera de protegerte. Así que disfruta de la belleza de estos animales desde lejos y asegúrate de que tus mascotas estén protegidas. ¡La prevención es la clave!
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7uLBjDbPmK8" frameborder="0" allowfullscreen></iframe>
 
