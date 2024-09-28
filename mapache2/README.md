@@ -25,7 +25,7 @@ Si estás interesado en observar mapaches salvajes, lo mejor es hacerlo en la no
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q6YsdENS6ok" frameborder="0" allowfullscreen></iframe>
 
 
-* [Mapacha](recursos1/2/Como_viven_en_la_naturaleza.md)
+* [Mapacha](recursos1/2/El_Comportamiento_de_Juego_de_los_Mapaches.md)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⡤⠤⠴⠶⠦⣤⣤⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⠀⠀⢀⣠⠶⢞⣻⣷⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⠾⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠛⠲⠶⢤⣤⣤⣤⣀⣀⣀⣠⣴⡾⠿⠛⠛⠋⠉⣉⣉⣉⣉⡿⠋⣡⣾⣿⣿⡿⠀⠀⠀
