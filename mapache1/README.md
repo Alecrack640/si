@@ -60,13 +60,4 @@ Si amas a los mapaches pero no puedes tener uno como mascota, ¡no te preocupes!
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⢿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-Aquí hay un video de YouTube:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TU_ID_DEL_VIDEO?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
-Y aquí hay un video local:
-
-<video width="560" height="315" controls autoplay>
-  <source src="video.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G1BzBArj2XQ" frameborder="0" allowfullscreen></iframe>
